@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_announcements"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Announcements" />
+        <item
+            android:id="@+id/nav_councelling_session"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Book Counseling Session" />
+        <item
+            android:id="@+id/nav_councelors"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Councelors" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Center Info/About" />
+    </group>
+
+</menu>

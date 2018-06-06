@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/timg">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="50dp">
+
+            <!--<EditText-->
+                <!--android:id="@+id/stud_id"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="22dp"-->
+                <!--android:layout_marginRight="35dp"-->
+                <!--android:background="#0000"-->
+                <!--android:hint="Student ID"-->
+                <!--android:inputType="text"-->
+                <!--android:padding="16dp"-->
+                <!--android:textColor="#ADCCE2"-->
+                <!--android:textColorHint="#ADCCE2"-->
+                <!--android:textSize="16dp" />-->
+
+            <!--<View-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="1dp"-->
+                <!--android:layout_marginLeft="40dp"-->
+                <!--android:layout_marginRight="40dp"-->
+                <!--android:background="#ADCCE2" />-->
+
+
+            <!--<EditText-->
+                <!--android:id="@+id/date"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="22dp"-->
+                <!--android:layout_marginRight="35dp"-->
+                <!--android:background="#0000"-->
+                <!--android:hint="Date (yyyy-mm-dd)"-->
+                <!--android:inputType="textEmailAddress"-->
+                <!--android:padding="16dp"-->
+                <!--android:textColor="#ADCCE2"-->
+                <!--android:textColorHint="#ADCCE2"-->
+                <!--android:textSize="16dp" />-->
+
+            <!--<View-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="1dp"-->
+                <!--android:layout_marginLeft="40dp"-->
+                <!--android:layout_marginRight="40dp"-->
+                <!--android:background="#ADCCE2" />-->
+
+            <!--<EditText-->
+                <!--android:id="@+id/usrusr"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="22dp"-->
+                <!--android:layout_marginRight="35dp"-->
+                <!--android:background="#0000"-->
+                <!--android:hint="Location"-->
+                <!--android:inputType="number"-->
+                <!--android:padding="16dp"-->
+                <!--android:textColor="#ADCCE2"-->
+                <!--android:textColorHint="#ADCCE2"-->
+                <!--android:textSize="16dp" />-->
+            <!---->
+
+            <!--<View-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="1dp"-->
+                <!--android:layout_marginLeft="40dp"-->
+                <!--android:layout_marginRight="40dp"-->
+                <!--android:background="#ADCCE2" />-->
+
+            <TextView
+                android:id="@+id/pswrd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginRight="35dp"
+                android:background="#0000"
+                android:padding="16dp"
+                android:textColor="#ADCCE2"
+                android:textColorHint="#ADCCE2"
+                android:textSize="16dp"
+                android:text="Problem/Stressor"/>
+
+            <Spinner
+                android:id="@+id/stressors"
+                android:layout_marginLeft="22dp"
+                android:layout_marginRight="35dp"
+                android:paddingLeft="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:background="#ADCCE2" />
+
+
+            <EditText
+                android:id="@+id/description"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginLeft="22dp"
+                android:layout_marginRight="35dp"
+                android:background="#0000"
+                android:hint="Short Description"
+                android:inputType="text"
+                android:padding="16dp"
+                android:textColor="#ADCCE2"
+                android:textColorHint="#ADCCE2"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/counsellor_assigned"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginRight="35dp"
+                android:background="#0000"
+                android:padding="16dp"
+                android:textColor="#ADCCE2"
+                android:textColorHint="#ADCCE2"
+                android:textSize="16dp"
+                android:text="Counsellor Assigned: "
+                android:visibility="gone"/>
+
+            <Spinner
+                android:id="@+id/scheduled_time"
+                android:layout_marginLeft="22dp"
+                android:layout_marginRight="35dp"
+                android:paddingLeft="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                />
+
+            <TextView
+                android:id="@+id/signup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="28dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:layout_marginTop="32dp"
+                android:background="@drawable/angle"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="Done"
+                android:textColor="#fff"
+                android:textSize="16dp" />
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>
+
+</ScrollView>

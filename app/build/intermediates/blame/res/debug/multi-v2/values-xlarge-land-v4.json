@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/krogers/Downloads/edi/UGCC/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "/home/krogers/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/1a49f07e9177b746a60bd123b42db024/res/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/krogers/Downloads/edi/UGCC/C:\\Users\\Samuel\\Documents\\UGCC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "/home/krogers/Downloads/edi/UGCC/C:\\Users\\Samuel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\b9b32728202b636c6b8320232cadce65\\res\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/krogers/Downloads/edi/UGCC/K:\\UGCC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "/home/krogers/Downloads/edi/UGCC/C:\\Users\\Samuel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\b9b32728202b636c6b8320232cadce65\\res\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}
