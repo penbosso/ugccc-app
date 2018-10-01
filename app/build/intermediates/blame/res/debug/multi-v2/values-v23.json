@@ -1,10 +1,21 @@
 {
     "logs": [
         {
-            "outputFile": "/home/krogers/Downloads/edi/UGCC/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "E:\\ck's menuenu\\4th year\\Project\\code\\New folder\\ugccc-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "/home/krogers/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/ab4b7d343667fc8c7fe0bbcb7a39b84f/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\Chris\\.gradle\\wrapper\\wrapper\\dists\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\444412fd1895074f23e3822b9c1ecc29\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2184,2299,2406",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35",
+                        "endColumns": "134,134,74,86,12,12,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2179,2294,2401,2514"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Chris\\.gradle\\wrapper\\wrapper\\dists\\caches\\transforms-1\\files-1.1\\cardview-v7-23.4.0.aar\\614aec891bdff64869528da1419795d7\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,87 +31,6 @@
                         "endLines": "38",
                         "endColumns": "12",
                         "endOffsets": "2664"
-                    }
-                },
-                {
-                    "source": "/home/krogers/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/1a49f07e9177b746a60bd123b42db024/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,19,32,33,34,35",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1277,2079,2184,2299,2406",
-                        "endLines": "2,3,4,5,18,31,32,33,34,35",
-                        "endColumns": "134,134,74,86,12,12,104,114,106,112",
-                        "endOffsets": "185,320,395,482,1272,2074,2179,2294,2401,2514"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/krogers/Downloads/edi/UGCC/K:\\UGCC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
-            "map": [
-                {
-                    "source": "/home/krogers/Downloads/edi/UGCC/C:\\Users\\Samuel\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-23.4.0.aar\\d23f6df7cab43e4660bd804a23d3fdde\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "200"
-                    },
-                    "to": {
-                        "startLines": "36",
-                        "startColumns": "4",
-                        "startOffsets": "2519",
-                        "endLines": "38",
-                        "endColumns": "12",
-                        "endOffsets": "2664"
-                    }
-                },
-                {
-                    "source": "/home/krogers/Downloads/edi/UGCC/C:\\Users\\Samuel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\b9b32728202b636c6b8320232cadce65\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,19,32,33,34,35",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1277,2079,2184,2299,2406",
-                        "endLines": "2,3,4,5,18,31,32,33,34,35",
-                        "endColumns": "134,134,74,86,12,12,104,114,106,112",
-                        "endOffsets": "185,320,395,482,1272,2074,2179,2294,2401,2514"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/krogers/Downloads/edi/UGCC/C:\\Users\\Samuel\\Documents\\UGCC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
-            "map": [
-                {
-                    "source": "/home/krogers/Downloads/edi/UGCC/C:\\Users\\Samuel\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-23.4.0.aar\\d23f6df7cab43e4660bd804a23d3fdde\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "200"
-                    },
-                    "to": {
-                        "startLines": "36",
-                        "startColumns": "4",
-                        "startOffsets": "2519",
-                        "endLines": "38",
-                        "endColumns": "12",
-                        "endOffsets": "2664"
-                    }
-                },
-                {
-                    "source": "/home/krogers/Downloads/edi/UGCC/C:\\Users\\Samuel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\b9b32728202b636c6b8320232cadce65\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,19,32,33,34,35",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1277,2079,2184,2299,2406",
-                        "endLines": "2,3,4,5,18,31,32,33,34,35",
-                        "endColumns": "134,134,74,86,12,12,104,114,106,112",
-                        "endOffsets": "185,320,395,482,1272,2074,2179,2294,2401,2514"
                     }
                 }
             ]
