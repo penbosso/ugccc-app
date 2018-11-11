@@ -1,41 +1,41 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
 MERGED from [com.android.support:design:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\design-23.4.0.aar\ddb493e55ece5f9b1ed0ae92e32f4f78\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\d910976eded326605bafdc99b4259f5a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\444412fd1895074f23e3822b9c1ecc29\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\b83ea8ecd58254029fb6ae1d92c57bc0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\d0c065109188da4babfd2d4753ac70b9\AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f1faed07c56cd91ba1a7f17655320f9e\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\197b84d1e5de0b012375937c11a59d72\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0ce5eb20027f8e162df56b52d86f827f\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\614aec891bdff64869528da1419795d7\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.volley:volley:1.1.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\volley-1.1.0.aar\0d1bf92bada7e3ecc2944556f013b197\AndroidManifest.xml:2:1-11:12
-INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:3:5-38
-		INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
-		INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:4:5-66
+ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:4:5-66
 	android:name
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:6:5-31:19
+ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:6:5-31:19
 MERGED from [com.android.support:design:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\design-23.4.0.aar\ddb493e55ece5f9b1ed0ae92e32f4f78\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\design-23.4.0.aar\ddb493e55ece5f9b1ed0ae92e32f4f78\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\444412fd1895074f23e3822b9c1ecc29\AndroidManifest.xml:25:5-20
@@ -46,56 +46,56 @@ MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chris\
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\d0c065109188da4babfd2d4753ac70b9\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f1faed07c56cd91ba1a7f17655320f9e\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f1faed07c56cd91ba1a7f17655320f9e\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\197b84d1e5de0b012375937c11a59d72\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\197b84d1e5de0b012375937c11a59d72\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0ce5eb20027f8e162df56b52d86f827f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0ce5eb20027f8e162df56b52d86f827f\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\614aec891bdff64869528da1419795d7\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\614aec891bdff64869528da1419795d7\AndroidManifest.xml:22:5-20
 MERGED from [com.android.volley:volley:1.1.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\volley-1.1.0.aar\0d1bf92bada7e3ecc2944556f013b197\AndroidManifest.xml:9:5-20
 MERGED from [com.android.volley:volley:1.1.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\volley-1.1.0.aar\0d1bf92bada7e3ecc2944556f013b197\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:9:9-41
 	android:icon
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:8:9-42
 	android:allowBackup
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.samuel.ugcc.activities.WelcomeActivity
-ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:12:9-21:20
+ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:12:9-21:20
 	android:label
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:14:13-45
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:14:13-45
 	android:theme
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:15:13-56
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:15:13-56
 	android:name
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:13:13-55
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:13:13-55
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.example.samuel.ugcc.activities.SignInActivity
-ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:22:9-24:20
+ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:22:9-24:20
 	android:name
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:22:19-60
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:22:19-60
 activity#com.example.samuel.ugcc.activities.SignUpActivity
-ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:25:9-27:20
+ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:25:9-27:20
 	android:name
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:25:19-60
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:25:19-60
 activity#com.example.samuel.ugcc.activities.MainActivity
-ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:28:9-30:20
+ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:28:9-30:20
 	android:name
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml:28:19-58
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml:28:19-58
 uses-sdk
-INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
-INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
+INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
+INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\design-23.4.0.aar\ddb493e55ece5f9b1ed0ae92e32f4f78\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\design-23.4.0.aar\ddb493e55ece5f9b1ed0ae92e32f4f78\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\d910976eded326605bafdc99b4259f5a\AndroidManifest.xml:20:5-43
@@ -108,21 +108,21 @@ MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chris\
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\d0c065109188da4babfd2d4753ac70b9\AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f1faed07c56cd91ba1a7f17655320f9e\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f1faed07c56cd91ba1a7f17655320f9e\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\197b84d1e5de0b012375937c11a59d72\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\197b84d1e5de0b012375937c11a59d72\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0ce5eb20027f8e162df56b52d86f827f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0ce5eb20027f8e162df56b52d86f827f\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\614aec891bdff64869528da1419795d7\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\614aec891bdff64869528da1419795d7\AndroidManifest.xml:20:5-43
 MERGED from [com.android.volley:volley:1.1.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\volley-1.1.0.aar\0d1bf92bada7e3ecc2944556f013b197\AndroidManifest.xml:7:5-43
 MERGED from [com.android.volley:volley:1.1.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\volley-1.1.0.aar\0d1bf92bada7e3ecc2944556f013b197\AndroidManifest.xml:7:5-43
-INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
-INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
+INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
+INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chris\.gradle\wrapper\wrapper\dists\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\444412fd1895074f23e3822b9c1ecc29\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
-		INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
-		ADDED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
-		INJECTED from E:\ck's menuenu\4th year\Project\code\New folder\ugccc-app\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
+		ADDED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ck's menuenu\4th year\Project\code\New\ugccc-app\app\src\main\AndroidManifest.xml

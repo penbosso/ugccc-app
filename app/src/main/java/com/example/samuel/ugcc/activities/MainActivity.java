@@ -1,5 +1,6 @@
 package com.example.samuel.ugcc.activities;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -20,9 +21,11 @@ import com.example.samuel.ugcc.fragments.BookSessionFragment;
 import com.example.samuel.ugcc.fragments.CenterInfoFragment;
 import com.example.samuel.ugcc.fragments.CouncelorsFragment;
 import com.example.samuel.ugcc.fragments.FullAnnouncement;
+import com.example.samuel.ugcc.helper.SessionHandler;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+    private SessionHandler session;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -118,6 +121,13 @@ public class MainActivity extends AppCompatActivity
                     fragmentTransaction = getSupportFragmentManager().beginTransaction();
                     fragmentTransaction.replace(R.id.main_layout, councelorsFragment).commit();
                 }
+                break;
+
+            case R.id.nav_logout:
+                session.logoutUser();
+                Intent i = new Intent(MainActivity.this, SignInActivity.class);
+                startActivity(i);
+                finish();
                 break;
         }
 

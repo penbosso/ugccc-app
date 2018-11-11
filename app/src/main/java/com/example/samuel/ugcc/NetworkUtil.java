@@ -16,7 +16,7 @@ public class NetworkUtil {
     private static NetworkUtil mInstance;
     private static Context mCtx;
     private RequestQueue requestQueue;
-    public static final String URL = "http://192.168.8.101/";
+    public static final String URL = "http://192.168.43.108/";
 
     //constructor to start the networking operation
     private NetworkUtil(Context context) {

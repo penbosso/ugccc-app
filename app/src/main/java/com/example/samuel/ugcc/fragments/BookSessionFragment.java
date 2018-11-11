@@ -186,6 +186,7 @@ public class BookSessionFragment extends Fragment {
                             JSONObject jsonObject=new JSONObject(response);
                             if(jsonObject.getInt("status") == 0){
                                 Toast.makeText(getContext(), "Complaint filled successfully", Toast.LENGTH_SHORT).show();
+
                             } else{
                                 Toast.makeText(getContext(), "Complaint filling failed", Toast.LENGTH_SHORT).show();
                             }

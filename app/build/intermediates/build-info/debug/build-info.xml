@@ -2,42 +2,148 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="COLD"
+    build-mode="FULL"
     density="xhdpi"
     format="10"
     plugin-version="3.2.0"
-    timestamp="1538360597150"
+    timestamp="1540676797648"
     token="-5141768858414870818"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="9518" />
+        duration="2909" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="317" />
     <task
         name="verifier"
-        duration="0" />
+        duration="155" />
+
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1538359556263"
+        timestamp="1540676797648"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -46,27 +152,20 @@
             location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ck&apos;s menuenu\4th year\Project\code\New\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
-        <artifact
-            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\ck&apos;s menuenu\4th year\Project\code\New folder\ugccc-app\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1538360597150"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

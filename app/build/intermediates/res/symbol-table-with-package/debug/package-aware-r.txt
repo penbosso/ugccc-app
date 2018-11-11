@@ -644,6 +644,7 @@ drawable angle2
 drawable background
 drawable bag
 drawable circleangle
+drawable croplogo
 drawable design_fab_background
 drawable design_snackbar_background
 drawable ic_menu_camera
@@ -688,6 +689,8 @@ id announcements_list
 id basic
 id beginning
 id bottom
+id btnSignin
+id btnSignup
 id buttonPanel
 id cancel_action
 id cardDesc
@@ -722,6 +725,11 @@ id end
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
+id etConfirmPassword
+id etEmail
+id etFullName
+id etPassword
+id etUserId
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -730,7 +738,6 @@ id fill
 id fill_horizontal
 id fill_vertical
 id fixed
-id fname
 id full_cardDesc
 id full_cardImage
 id home
@@ -748,7 +755,6 @@ id line3
 id listMode
 id list_item
 id listview_background_shape
-id mail
 id main_layout
 id media_actions
 id middle
@@ -758,6 +764,7 @@ id nav_about
 id nav_announcements
 id nav_councelling_session
 id nav_councelors
+id nav_logout
 id nav_view
 id navigation_header_container
 id never
@@ -796,7 +803,6 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
-id signin
 id signup
 id signupforfree
 id sin
@@ -829,7 +835,6 @@ id topPanel
 id touch_outside
 id up
 id useLogo
-id usrusr
 id view_offset_helper
 id withText
 id wrap

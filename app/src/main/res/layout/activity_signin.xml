@@ -36,10 +36,10 @@
             android:orientation="vertical"
             android:layout_alignParentBottom="true">
             <EditText
-                android:id="@+id/usrusr"
+                android:id="@+id/etUserId"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Username"
+                android:hint="I.D."
                 android:layout_marginTop="20dp"
                 android:textSize="16dp"
                 android:textColorHint="#ADCCE2"
@@ -61,7 +61,7 @@
                 android:textSize="16dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Password"
+                android:hint="etPassword"
                 android:textColorHint="#ADCCE2"
                 android:layout_marginLeft="22dp"
                 android:inputType="textPassword"
@@ -78,8 +78,8 @@
                 android:layout_height="1dp"
                 android:layout_marginBottom="10dp"
                 android:background="#ADCCE2"/>
-            <TextView
-                android:id="@+id/signin"
+            <Button
+                android:id="@+id/btnSignin"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/angle"

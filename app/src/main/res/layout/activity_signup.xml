@@ -40,7 +40,7 @@
             android:orientation="vertical">
 
             <EditText
-                android:id="@+id/fname"
+                android:id="@+id/etFullName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="22dp"
@@ -61,7 +61,7 @@
                 android:background="#ADCCE2" />
 
             <EditText
-                android:id="@+id/mail"
+                android:id="@+id/etEmail"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="22dp"
@@ -82,13 +82,13 @@
                 android:background="#ADCCE2" />
 
             <EditText
-                android:id="@+id/usrusr"
+                android:id="@+id/etUserId"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="22dp"
                 android:layout_marginRight="35dp"
                 android:background="#0000"
-                android:hint="Student ID"
+                android:hint="ID"
                 android:inputType="number"
                 android:padding="16dp"
                 android:textColor="#ADCCE2"
@@ -103,13 +103,34 @@
                 android:background="#ADCCE2" />
 
             <EditText
-                android:id="@+id/pswrd"
+                android:id="@+id/etPassword"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="22dp"
                 android:layout_marginRight="35dp"
                 android:background="#0000"
                 android:hint="Password"
+                android:inputType="textPassword"
+                android:maxLength="12"
+                android:padding="16dp"
+                android:textColor="#ADCCE2"
+                android:textColorHint="#ADCCE2"
+                android:textSize="16dp" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:background="#ADCCE2" />
+
+            <EditText
+                android:id="@+id/etConfirmPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginRight="35dp"
+                android:background="#0000"
+                android:hint="Confirm Password"
                 android:inputType="textPassword"
                 android:maxLength="12"
                 android:padding="16dp"
@@ -125,8 +146,8 @@
                 android:layout_marginRight="40dp"
                 android:background="#ADCCE2" />
 
-            <TextView
-                android:id="@+id/signup"
+            <Button
+                android:id="@+id/btnSignup"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
